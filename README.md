@@ -17,10 +17,13 @@ Based in Portugal 🇵🇹, originally from Brazil 🇧🇷.
 
 ### Stack
 
-**Data** Python · SQL · dbt · Snowflake · BigQuery
-**BI** Looker · Tableau · Metabase
-**Backend** FastAPI · SQLAlchemy · Pydantic
-**Tooling** Git · GitHub Actions · uv
+📊 **Data** Python · SQL · dbt · Snowflake · BigQuery
+
+📈 **BI** Looker · Tableau
+
+⚙️ **Backend** FastAPI · SQLAlchemy · Pydantic
+
+🔧 **Tooling** Git · GitHub Actions · uv
 
 ### Elsewhere
 
