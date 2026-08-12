@@ -11,8 +11,8 @@ Based in Portugal 🇵🇹, originally from Brazil 🇧🇷.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Sales Pipeline ETL](https://github.com/diegoscpereira/p01-python-sales-pipeline) | End-to-end ETL pipeline: extraction, transformation and load, with structured logging and validation | Python · pandas · Loguru |
-| [Game Library](https://github.com/diegoscpereira/p02-python-gaming-app-crud) | CRUD application with a typed API layer and a web front-end | FastAPI · SQLAlchemy 2.0 · Pydantic v2 · NiceGUI |
+| [Sales Pipeline ETL](https://github.com/diegoscpereira/sales-pipeline-etl) | End-to-end ETL pipeline: extraction, transformation and load, with structured logging and validation | Python · pandas · Loguru |
+| [Game Library](https://github.com/diegoscpereira/game-library-api) | CRUD application with a typed API layer and a web front-end | FastAPI · SQLAlchemy 2.0 · Pydantic v2 · NiceGUI |
 | [Blackjack Trainer](https://github.com/diegoscpereira/blackjack-trainer) | Interactive blackjack game that computes the expected value of each move and shows why one is optimal | TypeScript · spec-driven development with Claude Code |
 
 ### Stack
