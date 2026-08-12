@@ -1,4 +1,4 @@
-## Diego Pereira
+## Diego S. C. Pereira
 
 Senior Data Analyst at Carwow, working across analytics and data engineering.
 
